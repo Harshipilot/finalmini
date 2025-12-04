@@ -11,7 +11,6 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 from PIL import Image
-import cv2
 import numpy as np
 
 # Map libraries
@@ -922,3 +921,4 @@ else:
             
 
     
+
